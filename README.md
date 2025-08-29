@@ -77,4 +77,5 @@ Accepted Success
 
 ### Stopped Alert Email
 
-![alt text](output/stopped.png)
+<img width="1296" height="798" alt="Untitled" src="https://github.com/user-attachments/assets/67a668ae-ad06-497b-bbb9-0729a44e2f56" />
+
