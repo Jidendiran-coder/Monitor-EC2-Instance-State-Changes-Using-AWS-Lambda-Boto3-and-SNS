@@ -69,7 +69,7 @@ Accepted Success
 
 ### Pending Alert Email
 
-![alt text](output/pending.png)
+<img width="1626" height="964" alt="Untitled" src="https://github.com/user-attachments/assets/542e19e3-0c9b-4c96-a9ef-b292177b9599" />
 
 ### Running Alert Email
 
