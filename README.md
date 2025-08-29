@@ -62,10 +62,9 @@ Email received for SNS subscription
 
 <img width="1830" height="808" alt="Screenshot 2025-08-29 235527" src="https://github.com/user-attachments/assets/68a270f0-9ff8-4933-a3bb-86615fac12c1" />
 
-
 Accepted Success
 
-![alt text](output/state_change_sns_accept.png)
+<img width="1830" height="964" alt="Untitled" src="https://github.com/user-attachments/assets/cf68122e-a7a7-43ac-b032-d2acd47a873f" />
 
 
 ### Pending Alert Email
