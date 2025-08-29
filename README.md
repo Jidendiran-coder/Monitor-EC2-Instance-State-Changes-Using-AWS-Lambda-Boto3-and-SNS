@@ -64,7 +64,7 @@ Email received for SNS subscription
 
 Accepted Success
 
-<img width="1830" height="964" alt="Untitled" src="https://github.com/user-attachments/assets/cf68122e-a7a7-43ac-b032-d2acd47a873f" />
+<img width="1464" height="771" alt="Untitled" src="https://github.com/user-attachments/assets/b1d41418-1f20-4cba-80c3-32f4b5a74365" />
 
 
 ### Pending Alert Email
