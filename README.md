@@ -69,7 +69,7 @@ Accepted Success
 
 ### Pending Alert Email
 
-<img width="1626" height="964" alt="Untitled" src="https://github.com/user-attachments/assets/542e19e3-0c9b-4c96-a9ef-b292177b9599" />
+<img width="1300" height="771" alt="Untitled" src="https://github.com/user-attachments/assets/dfd4a5c5-c5bc-4c19-86b6-92c5469e89e4" />
 
 ### Running Alert Email
 
