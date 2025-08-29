@@ -1,4 +1,4 @@
-# EC2 Instance State Change Monitor (AWS Lambda + SNS + EventBridge)
+# EC2 Instance Monitor (AWS Lambda + SNS + EventBridge)
 
 This project monitors EC2 instance state changes (e.g., `running`, `stopped`) and sends notifications via Amazon SNS whenever a change occurs. It uses an AWS Lambda function triggered by Amazon EventBridge rules and leverages boto3 to fetch EC2 metadata (like instance name).
 
