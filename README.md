@@ -73,7 +73,7 @@ Accepted Success
 
 ### Running Alert Email
 
-![alt text](output/running.png)
+<img width="1297" height="796" alt="Untitled" src="https://github.com/user-attachments/assets/7ad8b811-1b26-450e-ad0b-e27284b704e1" />
 
 ### Stopped Alert Email
 
